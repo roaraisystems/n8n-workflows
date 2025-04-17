@@ -1,0 +1,5 @@
+mkdir -p workflows/2025/04
+touch workflows/2025/04/.gitkeep
+git add .
+git commit -m "Add base folders"
+git push
