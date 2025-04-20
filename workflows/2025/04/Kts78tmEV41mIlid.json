@@ -1,1 +1,7 @@
-{ "test": true }
+{
+  "commitMessage": "\"Add n8n workflow: Kts78tmEV41mIlid\"",
+  "filecontent": "{}",
+  "repo_name": "n8n-workflows",
+  "repo_owner": "roaraisystems",
+  "repo_path": "workflows/2025/04/Kts78tmEV41mIlid.json"
+}
